@@ -9,7 +9,7 @@
 
 ## Arquivo: exemplo.flex
 
-<pre>flex
+<pre>
 /* Definição: seção para código do usuário. */
 
 
