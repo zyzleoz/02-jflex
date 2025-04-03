@@ -541,12 +541,12 @@ class Yylex {
             // fall through
           case 4: break;
           case 2: 
-            { System.out.println("começa com a ");
+            { System.out.println("começa com a");
             } 
             // fall through
           case 5: break;
           case 3: 
-            { System.out.println("começa com b ");
+            { System.out.println("começa com b");
             } 
             // fall through
           case 6: break;
