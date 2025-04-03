@@ -21,7 +21,9 @@
 
 %%
 
-/* Regras e Ações Associadas: seção de instruções para o analisador léxico. */
+/* Regras e Ações Associadas: seção de instruções para 
+ * o analisador léxico. 
+ */
 
 a(a|b)* {System.out.println("começa com a");} //Isso é uma regra.
 b(a|b)* {System.out.println("começa com b");} //Isso é uma outra regra.
